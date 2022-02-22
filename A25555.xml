@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to Dagons fall, or, The knight turned out of commission being a vindication of Sir W.W.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25555</idno>
+            <idno type="STC">Wing A3356</idno>
+            <idno type="STC">ESTC R16445</idno>
+            <idno type="EEBO-CITATION">11930490</idno>
+            <idno type="OCLC">ocm 11930490</idno>
+            <idno type="VID">51096</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25555)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51096)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 48:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to Dagons fall, or, The knight turned out of commission being a vindication of Sir W.W.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>"In April, 1680, the king put him [Sir William Waller, d. 1699] out of the commission of the peace"--DNB.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, --  Sir, d. 1699 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:51096:1"/>
+            <!-- PDF PAGE 43 -->
+            <pb n="1" facs="tcp:51096:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <head>AN ANSWER TO Dagons Fall; OR THE KNIGHT turned out of COMMISSION: Being a VINDICATION of Sir <hi>W. W.</hi>
+            </head>
+            <lg>
+               <l>HE that lately writ the Fall of <hi>Dagon,</hi>
+               </l>
+               <l>Is a rigid Papiſt, or a Pagan.</l>
+               <l>But over-ruling Providence, that muſt</l>
+               <l>With humane Projects play, as Wind with Duſt,</l>
+               <l>From whoſe all-ſeeing Eye no Clandeſtine</l>
+               <l>Plots or Conſpiracies, to undermine</l>
+               <l>Prince, Church or State, there's none ſo well can hide,</l>
+               <l>The Pope himſelf with all his Pomp and Pride</l>
+               <lg>
+                  <l>Muſt Truckle under it; that mighty Power</l>
+                  <l>Will pull thoſe down that now ſo highly Tower,</l>
+                  <l>And convert their now all ſweets to ſour.</l>
+               </lg>
+               <lg>
+                  <l>What Joy, the nothing-underſtanding Rout,</l>
+                  <l>What Laughing, what Rejoycing, how they flout</l>
+                  <l>And keep a Jubilee now <hi>Waller</hi>'s out?</l>
+               </lg>
+               <l>O! How they mock, they ſcorn, and do deride</l>
+               <l>That worthy Juſtice that's now laid aſide,</l>
+               <l>The Prieſts do Daunce and skip like Fairy Elves,</l>
+               <l>And could for Joy ev'n half hang themſelves:</l>
+               <l>
+                  <pb n="2" facs="tcp:51096:2" rendition="simple:additions"/>
+                  <!-- PDF PAGE 44 -->
+Our Copes, our Beads, our Books, ſays Father <hi>Rafe,</hi>
+               </l>
+               <l>Yea, and our ſelves too, now he's out, are ſafe;</l>
+               <l>We ſleep ſecure, and walk now where we pleaſe</l>
+               <l>Since brave Sir <hi>William</hi> had a Writ of Eaſe;</l>
+               <l>Their Party's weakned, ours is much ſtronger,</l>
+               <l>Our old Gouty Pope looks ten years younger,</l>
+               <l>And though he ſcarce can crawl, ready to Jump,</l>
+               <l>Ha, ha, quoth he, I ſee Knaves will be Trump:</l>
+               <l>I'le play my Game with theſe, and do not doubt</l>
+               <l>But I ſhall bring this great Deſign about.</l>
+               <l>I'le Saddle this dull Aſs, and if I get on,</l>
+               <l>How I will Ride the reſty Jade <hi>Great-Brittain;</hi>
+               </l>
+               <l>The <hi>Peter-pence,</hi> that were my former Fees,</l>
+               <l>Pardons for Sins, and all ſuch Cheats as theſe,</l>
+               <l>They ſhall not ſerve their turn, I do divine,</l>
+               <l>That all their Chimney-Money ſhall be mine,</l>
+               <l>It was my former Right, and they ſhall know it,</l>
+               <l>Their ancient Records do plainly ſhew it.</l>
+               <l>The Church-Lands too, that <hi>Harry,</hi> out of hate,</l>
+               <l>Did from the See of <hi>Rome</hi> Alienate,</l>
+               <l>Shall all be mine, I ſee the Game's my own,</l>
+               <l>I've pack'd the Cards, and well my Dice have thrown,</l>
+               <l>The Lords who acted for me, now i'th' <hi>Tower,</hi>
+               </l>
+               <l>Think it no Priſon, it's a pleaſant Bowre.</l>
+               <l>The Stage Erected for to try them on,</l>
+               <l>Is a fine thing for Boys to Play upon</l>
+               <l>At Hide and Seek, ſince the great Rod's flung by</l>
+               <l>We muſt beſtir our Stumps, for if they Dye,</l>
+               <l>One may diſcover what <hi>Cabal</hi> and I</l>
+               <l>So long have Plotted, and perhaps put by.</l>
+               <lg>
+                  <l>We were in Danger once but found a Trick,</l>
+                  <l>And took off Juſtice <hi>Godfry</hi> juſt i'th' Nick,</l>
+                  <l>Who thought to have given us all a mortal Kick.</l>
+               </lg>
+               <l>The Parliament ſtreight took the Quarrel up,</l>
+               <l>And they made ſome to taſte the Bitter Cup</l>
+               <l>
+                  <pb n="3" facs="tcp:51096:2"/>
+                  <!-- PDF PAGE 44 -->
+Of Martyrdom, for <hi>Colemdn</hi> and ſome more,</l>
+               <l>I think in number almoſt half a ſcore,</l>
+               <l>Were hang'd at <hi>Tyburn:</hi> But I was the Cauſe</l>
+               <l>To dull their edge; and put a ſtop to Laws</l>
+               <l>They were a making; and reſolv'd to try</l>
+               <l>Whether thoſe Country Clowns ſhould Rule, or I.</l>
+               <l>I lately ſet ſome deſperate Ruffians on</l>
+               <l>To murder <hi>Arnold,</hi> pity 'twas not done:</l>
+               <l>But this I dare almoſt be bold to ſwear,</l>
+               <l>It will poſſeſs the reſt with ſuch a fear,</l>
+               <l>That ſcarce one Juſtice throughout all the Nation</l>
+               <l>Will dare to ſeize, or take Examination</l>
+               <l>Of any Prieſt that I ſhall ſend abroad;</l>
+               <l>The Coaſt is clear and open lies our Road.</l>
+               <l>Their Ships of War though they are numerous,</l>
+               <l>Laid all in Dock, ſcarce one will oppoſe us;</l>
+               <l>Their Sea-Port Towns, I muſt confeſs are ſtrong,</l>
+               <l>I know my Emmiſſaries ere't be long,</l>
+               <l>Will clear me of that doubt; though they have Guns</l>
+               <l>They ſhall want Powder, fight no more than Nuns.</l>
+               <l>There are but few that do the Land defend,</l>
+               <l>Cut off their Heads, and then there is an end</l>
+               <l>Of their Allegiance; for ſtill want of Pay,</l>
+               <l>With Men of Fortune, will bear all the Sway;</l>
+               <l>When that's once done we need not doubt the day.</l>
+               <l>Of the whole Alphabet I uſe only three Letters,</l>
+               <l>
+                  <hi>A. B. C.</hi> that Charm ſhall bring in Fetters.</l>
+               <l>Who ſoon will Rock and cloſely lay to ſleep</l>
+               <l>Thoſe <hi>Argus</hi>-Eyes, whoſe Vigilance ſhould keep</l>
+               <l>A Guard by Land, and well ſecure the Deep.</l>
+               <l>By unſeen Arts when that is brought to paſs</l>
+               <l>Let no man call ſly <hi>Pontifex,</hi> an Aſs.</l>
+            </lg>
+            <lg>
+               <l>But now, Sir Pope, you do believe you're ſixt,</l>
+               <l>Remember <hi>Alexander,</hi> Pope the ſixt;</l>
+               <l>Who laid his Plot as cunningly as yours,</l>
+               <l>And yet was bafled by O're-ruling Powers,</l>
+               <l>
+                  <pb n="4" facs="tcp:51096:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 45 -->
+And <hi>Borgia</hi> his Son, who could not miſs,</l>
+               <l>A Principality would ſure be his,</l>
+               <l>As he did boaſt to the wiſe <hi>Florentine;</hi>
+               </l>
+               <l>Both diſappointed by a Glaſs of Wine.</l>
+               <l>You do cry down the Nations ſureſt Friends,</l>
+               <l>And blame all that dare oppoſe your Ends;</l>
+               <l>And makes your dayly buſineſs for to Ring</l>
+               <l>The Funeral Knell of thoſe brought in the King.</l>
+               <l>But on firm Baſis ſtill old <hi>England</hi> ſtands,</l>
+               <l>Defying all your Heads and all your Hands.</l>
+               <l>By generous Courage ſhe was ne're forſook,</l>
+               <l>When wiſer Foes her Ruine undertook.</l>
+               <l>And now to make her Truckle can ye hope</l>
+               <l>To ſelf-will'd Fops, and an old Doting Pope?</l>
+               <lg>
+                  <l>
+                     <hi>Andronicus,</hi> who moſt unfortunate,</l>
+                  <l>Murdered his Nephew thinking to Inſtate</l>
+                  <l>Himſelf i'th Throne, gain'd but the Peoples hate;</l>
+               </lg>
+               <l>And what was th' end of his great Pollicy;</l>
+               <l>Hung by the Heels this Emperour did dye</l>
+               <l>Upon a Gallows, when all that ſaw't did cry,</l>
+               <l>He well deſerv'd that ſad Cataſtrophy.</l>
+               <lg>
+                  <l>You ne're ſhall make us ſtoop to th' See of <hi>Rome,</hi>
+                  </l>
+                  <l>We'l keep our Laws, and Lands, and Heaven's Doom,</l>
+                  <l>Spight of your Arts and Plots ſhall ſurely come.</l>
+               </lg>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:51096:3"/>
+            <!-- PDF PAGE 45 -->
+         </div>
+      </body>
+   </text>
+</TEI>
